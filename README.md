@@ -33,7 +33,7 @@ Example:
 ```
 If fine-tuning Mistral-7B, replace <code>$base_model</code> with Mistral-7B-Instruct-v0.2
 
-Please see [Finetuned-model](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Finetuned_model) for the model that can be obtained after fine-tuning. You can directly load the model in the application, For a simple example, you can see the [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details.
+Please see [deanpp/E-Commerce_LLM](https://huggingface.co/deanpp/E-Commerce_LLM/tree/main) for the model that can be obtained after fine-tuning. You can directly load the model in the application, For a simple example, you can see the [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details.
 
 
 ## Inference

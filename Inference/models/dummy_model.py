@@ -25,7 +25,7 @@ class EclmPretrained(ShopBenchBaseModel):
         """Initializes the model and sets the random seed for consistency."""
         random.seed(AICROWD_RUN_SEED)
         # Initialize Meta Llama 3 - 8B Instruct Model
-        self.model_name = "/data/ptan499/eCeLLM/Mistral_7B_origin"
+        self.model_name = "deanpp/E-Commerce_LLM"
 
         # initialize the model with vllm
         self.llm = vllm.LLM(
