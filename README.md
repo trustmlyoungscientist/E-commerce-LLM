@@ -6,7 +6,7 @@ This is a complete project for the application of a large language model (LLMS) 
 ![Image Description](./Images/Overview_full.jpg)
 
 ## Demo
-This demo is a tutorial to use a single fine-tuned LLM to handle multiple e-commerce tasks. Please see [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/main/Demo1.ipynb) for details.
+This demo is a tutorial to use a single fine-tuned LLM to handle multiple e-commerce tasks. Please see [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details.
 
 ## Requirements:
 <code>pip install -r requirements.txt</code>
@@ -33,7 +33,7 @@ Example:
 ```
 If fine-tuning Mistral-7B, replace <code>$base_model</code> with Mistral-7B-Instruct-v0.2
 
-Please see [Finetuned-model](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/main/Finetuned_model) for the model that can be obtained after fine-tuning. You can directly load the model in the application, For a simple example, you can see the [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/main/Demo1.ipynb) for details.
+Please see [Finetuned-model](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Finetuned_model) for the model that can be obtained after fine-tuning. You can directly load the model in the application, For a simple example, you can see the [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details.
 
 
 ## Inference
