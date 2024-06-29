@@ -1,0 +1,16 @@
+{
+    "description": "Template used by LLama-LoRA.",
+    "prompt_input": [
+      {
+        "role": "system",
+        "content": "You are a helpful online shopping assistant. Please answer the following question about online shopping and follow the given instructions."
+      },
+      {
+        "role": "user",
+        "content": "{input_field}"
+      }
+    ],
+    "system_prompt": "You are a helpful online shopping assistant. Below is an instruction that describes a task, paired with an input that provides further context. Please write a response that appropriately completes the request.",
+    "response_split": "### Response:"
+  }
+  

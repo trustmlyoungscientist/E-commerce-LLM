@@ -1,0 +1,5 @@
+{
+    "description": "Template used by mistralai/Mistral-7B-Instruct-v0.1",
+    "prompt_input": "[INST] You are a helpful online shopping assistant. Please answer the following question about online shopping and follow the given instructions.\n\n{input_field}",
+    "response_split": "[/INST] ### Response:"    
+}
