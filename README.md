@@ -6,7 +6,7 @@ This is a complete project for the application of a large language model (LLMS) 
 ![Image Description](./Images/Overview_full.jpg)
 
 ## Demo
-This demo is a tutorial to use a single fine-tuned LLM to handle multiple e-commerce tasks. Please see [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details.
+This demo is a tutorial to use a single fine-tuned LLM to handle multiple e-commerce tasks. Please see [Demo1.ipynb](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1.ipynb) for details. You can also check [Demo1_video](https://github.com/trustmlyoungscientist/E-commerce-LLM/blob/master/Demo1_video.mp4) for a quick understanding.
 
 ## Requirements:
 <code>pip install -r requirements.txt</code>
